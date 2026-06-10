@@ -8,3 +8,4 @@
 | AWS Solutions Architect Associate | Nov 1, 2026 | 60 | $150 | Prep: AWS re:Invent videos + Stephane Maarek's Udemy course |
 | CKA — Certified Kubernetes Administrator | Nov 15, 2026 | 40 | $395 | Strongest K8s resume signal; hands-on exam — practice kubectl speed daily; use [killer.sh](https://killer.sh) |
 | Google Professional ML Engineer | Jan 10, 2027 | 60 | $200 | Google's official prep + Coursera ML specialization |
+| AWS Developer Associate (DVA-C02) | TBD | 30 | $150 | Optional/parallel — deeper developer focus than SAA; 8 LinkedIn Learning courses bookmarked; consider slotting alongside Phase 4 |

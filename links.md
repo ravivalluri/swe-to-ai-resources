@@ -44,7 +44,9 @@ Consolidated from my SWE → AI/LLM Engineer roadmap. Organized by phase.
 
 **Videos:** [ByteByteGo](https://www.youtube.com/@ByteByteGo) (best system design animations) · Gaurav Sen · [Hussein Nasser](https://www.youtube.com/@hnasr) (networking + backend) · [NetworkChuck](https://www.youtube.com/@NetworkChuck)
 
-**Blogs/Newsletters:** [ByteByteGo Newsletter](https://blog.bytebytego.com) · [High Scalability](http://highscalability.com) · [Martin Fowler](https://martinfowler.com) · [Netflix Tech Blog](https://netflixtechblog.com) (1 post/week) · [Haki Benita](https://hakibenita.com) (PostgreSQL internals)
+**Blogs/Newsletters:** [ByteByteGo Newsletter](https://blog.bytebytego.com) · [High Scalability](http://highscalability.com) · [Martin Fowler](https://martinfowler.com) · [Netflix Tech Blog](https://netflixtechblog.com) (1 post/week) · [Haki Benita](https://hakibenita.com) (PostgreSQL internals) · [Neo Kim — System Design Newsletter](https://newsletter.systemdesign.one) (deep dives on real architectures — Kafka, S3, Tinder, WhatsApp, Uber, Vitess, Stock Exchange, OpenAI's Postgres scale)
+
+**Must-read architecture deep dives (Neo Kim + others):** Airbnb monolith → microservices · WhatsApp system design · Spotify architecture · How Reddit works · How Bluesky works · How Google Docs works · Kafka mechanics · Tinder architecture · Slack architecture · S3 architecture · URL shortener · Serverless architecture · Vitess MySQL · AWS at scale · Stock exchange system design · How Uber finds nearby drivers · How OpenAI scaled to 800M users with Postgres
 
 **Practice:** [Codemia](https://codemia.io) — system design problem practice
 

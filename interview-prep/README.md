@@ -75,6 +75,8 @@ python evals/eval_transcript.py mock_interview_20260609_143000.txt --json
 | `watch_transcript.py` | Display-only watcher; Ctrl+C prints full transcript |
 | `evals/eval_transcript.py` | Scores a transcript on 5 dimensions, outputs report or JSON |
 | `agents/mock_interview.py` | Interactive mock interview with per-answer feedback + final score |
+| `star-stories.md` | STAR story bank template — categories, format, and tips |
+| `concepts/rag.md` | RAG deep dive — how it works, failure modes, eval metrics |
 
 ## Environment Variables
 
