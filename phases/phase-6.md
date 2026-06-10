@@ -15,7 +15,12 @@
 | `llm-course` | Supplement: RAG, fine-tuning, RLHF, deployment modules |
 | `500-AI-Agents-Projects` | Pick 3 project ideas and build them |
 | `ai-engineering-hub` | Production project examples: RAG, agents, MCP, fine-tuning |
-| `nn-zero-to-hero` | Reference back to nanoGPT for architectural questions |
+| `nn-zero-to-hero` | Reference for Karpathy's nanoGPT lectures (Lectures 6–7) |
+| `nanoGPT` | Simplest, fastest repo for training/fine-tuning medium-sized GPTs — use for experiments in Weeks 48–49 |
+| `build-nanogpt` | Video + code: build nanoGPT step by step — watch alongside LLMs-from-scratch Ch 4–5 |
+| `minbpe` | Minimal BPE tokenizer from scratch — complete alongside Week 47 tokenization tasks |
+| `llama2.c` | Llama 2 inference in a single C file — read after Week 49 to understand inference mechanics |
+| `llm.c` | LLM training in raw C/CUDA — advanced; tackle in Week 59–60 capstone for low-level mastery |
 
 ---
 

@@ -15,6 +15,13 @@ Consolidated from my SWE → AI/LLM Engineer roadmap. Organized by phase.
 - [kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way) — K8s from first principles
 - [devops-exercises](https://github.com/bregman-arie/devops-exercises) — interview-style infra exercises
 - [nn-zero-to-hero](https://github.com/karpathy/nn-zero-to-hero) — Karpathy's core ML curriculum, every notebook in order
+- [micrograd](https://github.com/karpathy/micrograd) — tiny scalar autograd engine (~100 lines); read alongside Lecture 1
+- [makemore](https://github.com/karpathy/makemore) — autoregressive character-level LM; companion to Lectures 2–5
+- [nanoGPT](https://github.com/karpathy/nanoGPT) — fastest repo for training/fine-tuning medium-sized GPTs (59k⭐)
+- [build-nanogpt](https://github.com/karpathy/build-nanogpt) — video + code: build nanoGPT step by step; watch "Let's reproduce GPT-2"
+- [minbpe](https://github.com/karpathy/minbpe) — minimal BPE tokenizer from scratch; essential companion to Phase 6 tokenization
+- [llama2.c](https://github.com/karpathy/llama2.c) — Llama 2 inference in a single C file; understand inference mechanics at the metal
+- [llm.c](https://github.com/karpathy/llm.c) — LLM training in raw C/CUDA; advanced; tackle in Phase 6 capstone (30k⭐)
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) — Raschka, chapters 1–7
 - [llm-course](https://github.com/mlabonne/llm-course) — RAG, fine-tuning, RLHF, deployment modules
 - [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) — agent project ideas
@@ -98,7 +105,7 @@ Consolidated from my SWE → AI/LLM Engineer roadmap. Organized by phase.
 
 **Podcasts:** [Latent Space](https://www.latent.space) (best AI engineering podcast) · Lex Fridman (Sutskever, Altman, Karpathy) · Machine Learning Street Talk · The Cognitive Revolution
 
-**Repos:** [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — 93+ production projects (RAG pipelines, agentic systems, MCP, fine-tuning) with notebooks; work through these alongside Phase 6 reading · [How To Scale Your Model](https://jax-ml.github.io/scaling-book/) ([source](https://github.com/jax-ml/scaling-book)) — Google DeepMind textbook on LLM scaling: TPU architecture, parallelism strategies, roofline analysis, training vs inference tradeoffs; read after finishing the core LLM books
+**Repos:** [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — 93+ production projects (RAG pipelines, agentic systems, MCP, fine-tuning) with notebooks; work through these alongside Phase 6 reading · [How To Scale Your Model](https://jax-ml.github.io/scaling-book/) ([source](https://github.com/jax-ml/scaling-book)) — Google DeepMind textbook on LLM scaling: TPU architecture, parallelism strategies, roofline analysis, training vs inference tradeoffs; read after finishing the core LLM books · [nanoGPT](https://github.com/karpathy/nanoGPT) — Karpathy's fastest GPT training repo; use for Weeks 48–49 experiments · [build-nanogpt](https://github.com/karpathy/build-nanogpt) — lecture companion; watch before or alongside nanoGPT experiments · [minbpe](https://github.com/karpathy/minbpe) — BPE tokenizer from scratch; complete alongside Week 47 tokenization tasks · [llama2.c](https://github.com/karpathy/llama2.c) — Llama 2 inference in one C file; read Week 50 for inference internals · [llm.c](https://github.com/karpathy/llm.c) — LLM training in C/CUDA; capstone-level deep dive (Weeks 59–60)
 
 ## Misc Saved Links
 

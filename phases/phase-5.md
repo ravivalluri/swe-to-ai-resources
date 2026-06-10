@@ -12,6 +12,8 @@
 |------|-----------|
 | `TheAlgorithms/Python` | `machine_learning/` and `neural_network/` — study then rewrite from scratch |
 | `nn-zero-to-hero` | Core curriculum: follow every notebook in order |
+| `micrograd` | Companion to Lecture 1 — read source alongside the notebook, then rewrite from memory |
+| `makemore` | Companion to Lectures 2–5 — bigram → MLP → backprop → WaveNet |
 
 ---
 
