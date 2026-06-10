@@ -6,12 +6,13 @@ A curated second-brain for my 15-month transition from Software Engineer to AI/M
 
 | File / Folder | Description |
 |---|---|
-| [roadmap.md](roadmap.md) | Full timeline, phase breakdown, living project arc, essential papers, top newsletters |
+| [roadmap.md](roadmap.md) | High-level timeline, living project arc, essential papers, top newsletters |
 | [links.md](links.md) | Curated resources per phase — courses, books, videos, blogs, podcasts, practice tools |
 | [books.md](books.md) | Consolidated reading list with free/official links where available |
 | [certifications.md](certifications.md) | Certification plan with target dates, study hours, and fees |
 | [links-2026-finds.md](links-2026-finds.md) | Time-stamped finds: AI engineer interview prep, production RAG/agents, 2026 career roadmaps |
-| [interview-prep/](interview-prep/) | Real-time transcription, live Claude coaching, mock interview agent, transcript evals |
+| [phases/](phases/) | Week-by-week study schedules for all 7 phases (daily tasks, repos, build milestones) |
+| [interview-prep/](interview-prep/) | Real-time transcription, live Claude coaching, mock interview agent, transcript evals, concept notes |
 
 ## Roadmap at a Glance
 
