@@ -13,6 +13,8 @@ A curated second-brain for my 15-month transition from Software Engineer to AI/M
 | [links-2026-finds.md](links-2026-finds.md) | Time-stamped finds: AI engineer interview prep, production RAG/agents, 2026 career roadmaps |
 | [phases/](phases/) | Week-by-week study schedules for all 7 phases (daily tasks, repos, build milestones) |
 | [interview-prep/](interview-prep/) | Real-time transcription, live Claude coaching, mock interview agent, transcript evals, concept notes |
+| [living-project.md](living-project.md) | The single project that grows phase-by-phase — `job-assistant-*` ecosystem, target AWS architecture, end goal |
+| [second-brain/articles-guide.md](second-brain/articles-guide.md) | Article capture workflow — MarkDownload, Readwise, naming conventions, LLM wiki integration |
 
 ## Roadmap at a Glance
 
