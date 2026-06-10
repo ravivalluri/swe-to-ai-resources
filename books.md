@@ -47,3 +47,4 @@ Consolidated reading list across the roadmap. Free/official versions linked wher
 - **Natural Language Processing with Transformers** — Tunstall, von Werra, Wolf.
 - **AI Engineering** — Chip Huyen (essential).
 - **Designing Machine Learning Systems** — Chip Huyen.
+- [**How To Scale Your Model**](https://jax-ml.github.io/scaling-book/) — Austin et al., Google DeepMind (free). Textbook on scaling LLMs on TPUs: parallelism schemes, roofline analysis, training vs inference tradeoffs. Read after the core LLM books.

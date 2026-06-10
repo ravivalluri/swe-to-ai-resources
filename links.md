@@ -18,6 +18,7 @@ Consolidated from my SWE → AI/LLM Engineer roadmap. Organized by phase.
 - [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) — Raschka, chapters 1–7
 - [llm-course](https://github.com/mlabonne/llm-course) — RAG, fine-tuning, RLHF, deployment modules
 - [500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects) — agent project ideas
+- [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — 93+ production-ready LLM/RAG/agent projects, beginner → advanced (35k⭐)
 
 ## Phase 0 — CS Foundations
 
@@ -94,6 +95,8 @@ Consolidated from my SWE → AI/LLM Engineer roadmap. Organized by phase.
 **Papers:** Scaling Laws for Neural Language Models (Kaplan et al.) · GPT-3 ("Language Models are Few-Shot Learners") · InstructGPT · the original RAG paper
 
 **Podcasts:** [Latent Space](https://www.latent.space) (best AI engineering podcast) · Lex Fridman (Sutskever, Altman, Karpathy) · Machine Learning Street Talk · The Cognitive Revolution
+
+**Repos:** [ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) — 93+ production projects (RAG pipelines, agentic systems, MCP, fine-tuning) with notebooks; work through these alongside Phase 6 reading · [How To Scale Your Model](https://jax-ml.github.io/scaling-book/) ([source](https://github.com/jax-ml/scaling-book)) — Google DeepMind textbook on LLM scaling: TPU architecture, parallelism strategies, roofline analysis, training vs inference tradeoffs; read after finishing the core LLM books
 
 ## Misc Saved Links
 
